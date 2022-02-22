@@ -1,0 +1,35 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‹°¶¯øÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(‡™±þøÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‹°¶¯øÿÿÿÿ
+ 
+java:S1130"„Remove the declaration of thrown exception 'com.drew.imaging.ImageProcessingException' which is a subclass of 'java.lang.Exception'.(‹°¶¯øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¶’©”
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(·³î‰ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·³î‰ÿÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(”¡ýÂüÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(îÒƒÔ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(ÒÊÃŒ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(‹óÁ“
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(†¸È‡øÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(¥ÖŒ·
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(Ô€ˆ»ÿÿÿÿÿ
+M	java:S106;"9Replace this use of System.out or System.err by a logger.(êûô\
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(€îøÜýÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(º€œÿÿÿÿÿ
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(ÛÄéËþÿÿÿÿ
+`
+java:S3252t"EUse static access with "com.alibaba.fastjson.JSON" for "parseObject".(æ»ÒÈÿÿÿÿÿ
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(Ó«”É
+b
+java:S1192u"GDefine a constant instead of duplicating this literal "result" 3 times.(àÀï©ýÿÿÿÿ
+f	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ²ç
+k	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð¥ª·ýÿÿÿÿ
+k	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ð¥ª·ýÿÿÿÿ
+u
+java:S1488^"_Immediately return this expression instead of assigning it to the temporary variable "gps_dou".(ˆ²ç
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‡™±þøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âÙì”

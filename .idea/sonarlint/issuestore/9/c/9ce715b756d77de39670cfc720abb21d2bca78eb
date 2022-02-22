@@ -1,0 +1,14 @@
+
+^
+java:S3986"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(Ö¹—å
+H
+java:S1135"2Complete the task associated to this TODO comment.(±Þ¸æ
+r
+java:S1128"PRemove this unused import 'org.springframework.scheduling.annotation.Scheduled'.(‚¡®Üûÿÿÿÿ8‚ç¡Âí/
+l
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8‚ç¡Âí/
+u
+java:S1488$"`Immediately return this expression instead of assigning it to the temporary variable "filePath".(Â£²
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ÅÉŠÿÿÿÿÿ
+[
+java:S2259!"EA "NullPointerException" could be thrown; "oldName" is nullable here.(Ñ‚û²

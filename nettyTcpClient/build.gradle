@@ -1,0 +1,37 @@
+plugins {
+    id 'org.springframework.boot' version '2.5.6'
+    id 'java'
+}
+
+group 'com.tartan'
+version '1.0-SNAPSHOT'
+sourceCompatibility = '8'
+
+configurations {
+    compileOnly {
+        extendsFrom annotationProcessor
+    }
+}
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    implementation fileTree(dir: 'lib',include:['*.jar'])
+    implementation 'org.springframework.boot:spring-boot-starter'
+    implementation 'commons-beanutils:commons-beanutils:1.9.4'
+    implementation 'commons-io:commons-io:2.11.0'
+    implementation 'com.baomidou:mybatis-plus-boot-starter:3.4.3.4'
+    implementation 'io.netty:netty-all:4.1.70.Final'
+    implementation group: 'com.alibaba', name: 'fastjson', version: '1.2.78'
+    implementation group: 'mysql', name: 'mysql-connector-java', version: '8.0.16'
+    implementation group: 'com.alibaba', name: 'druid-spring-boot-starter', version: '1.1.10'
+    compileOnly 'org.projectlombok:lombok:1.18.22'
+    annotationProcessor 'org.projectlombok:lombok:1.18.22'
+}
+
+test {
+    useJUnitPlatform()
+}

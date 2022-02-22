@@ -1,0 +1,16 @@
+
+Z	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(„ÏÖw
+n
+java:S1450"XRemove the "bootstrap" field and declare it as a local variable in the relevant methods.(ƒÑØð
+p
+java:S1450"URemove the "future" field and declare it as a local variable in the relevant methods.(›¿®–üÿÿÿÿ
+g
+java:S1450"QRemove the "ip" field and declare it as a local variable in the relevant methods.(ÞáïÈ
+n
+java:S1450"SRemove the "port" field and declare it as a local variable in the relevant methods.(„ƒ¤Êýÿÿÿÿ
+g
+java:S1128"QRemove this unused import 'com.tartan.loginterpretation.netty.codec.QBusDecoder'.(ÉÒ§¡
+k
+java:S1128"URemove this unused import 'com.tartan.loginterpretation.netty.handler.QBusInHandler'.(¤ÍÏ‚
+s
+java:S1128"XRemove this unused import 'com.tartan.loginterpretation.netty.handler.TcpClientHandler'.(½ÞÍíùÿÿÿÿ

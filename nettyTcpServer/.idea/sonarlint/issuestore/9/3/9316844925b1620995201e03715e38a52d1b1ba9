@@ -1,0 +1,15 @@
+
+n
+java:S1450"SRemove the "port" field and declare it as a local variable in the relevant methods.(ß³†ÿÿÿÿÿ
+X
+java:S1854'"=Remove this useless assignment to local variable "proctocal".(ÏÄş¦ÿÿÿÿÿ
+I
+java:S1481'".Remove this unused "proctocal" local variable.(ÏÄş¦ÿÿÿÿÿ
+t
+java:S2142B"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+t
+java:S2142]"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+O
+java:S1068"4Remove this unused "exceptionHandler" private field.(ÜàÓñıÿÿÿÿ
+U
+java:S1068 ":Remove this unused "heartBeatServerHandler" private field.(»™ˆ×üÿÿÿÿ

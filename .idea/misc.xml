@@ -8,6 +8,10 @@
         <option value="$PROJECT_DIR$/designMode/pom.xml" />
         <option value="$PROJECT_DIR$/designMode/observer/pom.xml" />
         <option value="$PROJECT_DIR$/comAcquire/pom.xml" />
+        <option value="$PROJECT_DIR$/designPattern/strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/leetCode/pom.xml" />
+        <option value="$PROJECT_DIR$/mongo/pom.xml" />
+        <option value="$PROJECT_DIR$/insert/pom.xml" />
       </list>
     </option>
   </component>

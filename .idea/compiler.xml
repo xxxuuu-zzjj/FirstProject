@@ -7,18 +7,26 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mongo" />
         <module name="observer" />
-        <module name="designPattern" />
         <module name="comAcquire" />
+        <module name="leetCode" />
         <module name="springBootAndVue" />
+        <module name="designPattern" />
+        <module name="insert" />
+        <module name="strategy" />
         <module name="xzjProjects" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="comAcquire" target="1.8" />
       <module name="designPattern" target="11" />
+      <module name="insert" target="1.8" />
+      <module name="leetCode" target="1.8" />
+      <module name="mongo" target="1.8" />
       <module name="observer" target="1.8" />
       <module name="springBootAndVue" target="1.8" />
+      <module name="strategy" target="1.8" />
       <module name="xzjProjects" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -26,8 +34,12 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="comAcquire" options="-parameters" />
       <module name="designPattern" options="-parameters" />
+      <module name="insert" options="-parameters" />
+      <module name="leetCode" options="-parameters" />
+      <module name="mongo" options="-parameters" />
       <module name="observer" options="-parameters" />
       <module name="springBootAndVue" options="-parameters" />
+      <module name="strategy" options="-parameters" />
       <module name="xzjProjects" options="-parameters" />
     </option>
   </component>

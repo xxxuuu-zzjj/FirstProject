@@ -4,9 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/comAcquire/comAcquire.iml" filepath="$PROJECT_DIR$/comAcquire/comAcquire.iml" />
       <module fileurl="file://$PROJECT_DIR$/designMode/designPattern.iml" filepath="$PROJECT_DIR$/designMode/designPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insert/insert.iml" filepath="$PROJECT_DIR$/insert/insert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetCode/leetCode.iml" filepath="$PROJECT_DIR$/leetCode/leetCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongo/mongo.iml" filepath="$PROJECT_DIR$/mongo/mongo.iml" />
       <module fileurl="file://$PROJECT_DIR$/designMode/observer/observer.iml" filepath="$PROJECT_DIR$/designMode/observer/observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/selfProjects.iml" filepath="$PROJECT_DIR$/.idea/selfProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/springBootAndVue/springBootAndVue.iml" filepath="$PROJECT_DIR$/springBootAndVue/springBootAndVue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPattern/strategy/strategy.iml" filepath="$PROJECT_DIR$/designPattern/strategy/strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/siteOfPhoto/xzjProjects.iml" filepath="$PROJECT_DIR$/siteOfPhoto/xzjProjects.iml" />
     </modules>
   </component>

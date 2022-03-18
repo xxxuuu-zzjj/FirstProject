@@ -25,6 +25,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/MedianOfTwoSortedArrays .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/MedianOfTwoSortedArrays .md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com4" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/MedianOfTwoSortedArrays .java" />
+              <option name="titleSlug" value="median-of-two-sorted-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/MinimumNumberOfDaysToMakeMBouquets .java">
           <value>
             <LeetcodeEditor>
@@ -55,6 +66,28 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/PzWKhm .java" />
               <option name="titleSlug" value="PzWKhm" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/RemoveDuplicatesFromSortedArray .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/RemoveDuplicatesFromSortedArray .md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com26" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/RemoveDuplicatesFromSortedArray .java" />
+              <option name="titleSlug" value="remove-duplicates-from-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/SimpleBankSystem .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/SimpleBankSystem .md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2043" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/SimpleBankSystem .java" />
+              <option name="titleSlug" value="simple-bank-system" />
             </LeetcodeEditor>
           </value>
         </entry>

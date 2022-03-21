@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/nettyTcpServer/logsimulator" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mongo/pom.xml" />
+        <option value="$PROJECT_DIR$/insert/pom.xml" />
+        <option value="$PROJECT_DIR$/leetCode/pom.xml" />
+        <option value="$PROJECT_DIR$/comAcquire/pom.xml" />
+        <option value="$PROJECT_DIR$/siteOfPhoto/pom.xml" />
+        <option value="$PROJECT_DIR$/designPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/springBootAndVue/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

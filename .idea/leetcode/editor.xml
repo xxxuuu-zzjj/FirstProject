@@ -25,6 +25,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P661_ImageSmoother .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/P661_ImageSmoother .md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com661" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P661_ImageSmoother .java" />
+              <option name="titleSlug" value="image-smoother" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P88_MergeSortedArray .java">
           <value>
             <LeetcodeEditor>

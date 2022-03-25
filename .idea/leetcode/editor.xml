@@ -3,25 +3,47 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
-        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/AddDigits .java">
+        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P1492_TheKthFactorOfN .java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/AddDigits .md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com258" />
+              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/P1492_TheKthFactorOfN .md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1492" />
               <option name="host" value="leetcode-cn.com" />
-              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/AddDigits .java" />
-              <option name="titleSlug" value="add-digits" />
+              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P1492_TheKthFactorOfN .java" />
+              <option name="titleSlug" value="the-kth-factor-of-n" />
             </LeetcodeEditor>
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/TwoSumIvInputIsABst .java">
+        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P2038_RemoveColoredPiecesIfBothNeighborsAreTheSameColor .java">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/TwoSumIvInputIsABst .md" />
-              <option name="frontendQuestionId" value="leetcode-cn.com653" />
+              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/P2038_RemoveColoredPiecesIfBothNeighborsAreTheSameColor .md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2038" />
               <option name="host" value="leetcode-cn.com" />
-              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/TwoSumIvInputIsABst .java" />
-              <option name="titleSlug" value="two-sum-iv-input-is-a-bst" />
+              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P2038_RemoveColoredPiecesIfBothNeighborsAreTheSameColor .java" />
+              <option name="titleSlug" value="remove-colored-pieces-if-both-neighbors-are-the-same-color" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P661_ImageSmoother .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/P661_ImageSmoother .md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com661" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P661_ImageSmoother .java" />
+              <option name="titleSlug" value="image-smoother" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P88_MergeSortedArray .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/P88_MergeSortedArray .md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com88" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P88_MergeSortedArray .java" />
+              <option name="titleSlug" value="merge-sorted-array" />
             </LeetcodeEditor>
           </value>
         </entry>

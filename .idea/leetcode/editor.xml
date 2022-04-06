@@ -25,6 +25,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P118_PascalsTriangle .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/P118_PascalsTriangle .md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com118" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P118_PascalsTriangle .java" />
+              <option name="titleSlug" value="pascals-triangle" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P1492_TheKthFactorOfN .java">
           <value>
             <LeetcodeEditor>
@@ -77,6 +88,39 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P28_ImplementStrstr .java" />
               <option name="titleSlug" value="implement-strstr" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P307_RangeSumQueryMutable .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/P307_RangeSumQueryMutable .md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com307" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P307_RangeSumQueryMutable .java" />
+              <option name="titleSlug" value="range-sum-query-mutable" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P326_PowerOfThree .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/P326_PowerOfThree .md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com326" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P326_PowerOfThree .java" />
+              <option name="titleSlug" value="power-of-three" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P46_Permutations .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/P46_Permutations .md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com46" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P46_Permutations .java" />
+              <option name="titleSlug" value="permutations" />
             </LeetcodeEditor>
           </value>
         </entry>

@@ -135,6 +135,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P479_LargestPalindromeProduct .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/P479_LargestPalindromeProduct .md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com479" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P479_LargestPalindromeProduct .java" />
+              <option name="titleSlug" value="largest-palindrome-product" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P661_ImageSmoother .java">
           <value>
             <LeetcodeEditor>
@@ -165,6 +176,28 @@
               <option name="host" value="leetcode-cn.com" />
               <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P728_SelfDividingNumbers .java" />
               <option name="titleSlug" value="self-dividing-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P804_UniqueMorseCodeWords .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/P804_UniqueMorseCodeWords .md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com804" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P804_UniqueMorseCodeWords .java" />
+              <option name="titleSlug" value="unique-morse-code-words" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P819_MostCommonWord .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/doc/content/P819_MostCommonWord .md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com819" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetCode/src/main/java/com/xzj/leetcode/leetcode/editor/cn/P819_MostCommonWord .java" />
+              <option name="titleSlug" value="most-common-word" />
             </LeetcodeEditor>
           </value>
         </entry>
